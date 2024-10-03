@@ -40,6 +40,10 @@ Anyone interested in learning and sharing data-science knowledge within and orga
   * How would you present the materials? e.g. directly from markdown files.
   * How would you decide meetup topics? e.g. By consultation via a poll.
   * How long would each meetup be? e.g. 20' presentation + 10' discussion.
+  * Would you rotate the responsability to develop and lead meetups? How? e.g. Yes, every 3 months.
+  * Would you like to present meetups? e.g. Yes, occationally on topics I'm most pationate about.
+  * Would you develop the text content in English or another languge? e.g. Mostly English but other occationally in Spanish.
+  * Would you present the content during the meetup in English or another languge?  e.g. Mostly English but other occationally in Spanish.
 
 ## Resources
 
