@@ -1,36 +1,23 @@
-# Series Title
+# meta
 
-The goal of this series is ...
+The goal of this meetups is to show one workflow (tools and processes) useful to run data-science meetups. It's *meta* because it's a meetup about meetups, and was developed using the workflow it will demonstrate.
 
-At the end of this series, you will know how to do things like:
+At the end of this meetup, you will know how to:
 
-* ...
-* ...
+* Use this workflow to run data-science meetups.
+* Adapt this workflow based on your own values and needs.
 
 ## Who is the audience?
 
-...
+Anyone interested in learning and sharing data-science knowledge within and organization and with the broader data-science community. It's particularly useful if you are responsible for leading data-science meetups. 
 
 ## Why is it important?
 
-...
+* As a meetup developer you'll save time, teach more effectively, and stand out as an expert in the field.
+* As a meetup participant you'll get a more consistent, pleasant, and useful learning experience.
+* As a data-science organization you'll improve onboarding, develop internal talent, and advertise your work.
 
-## Program (tentative)
-
-### Meeting 1: Introduction
-
-This meeting will help you understand the most important aspects of this topic, and you can decide whether to attend the following meetings to dive deeper into the subject.
-
-Objectives:
-
-* ...
-* ...
-
-### Meeting 2: ...
-
-This meeting will help you ...
-
-Objectives:
+## Learning objectives
 
 * ...
 * ...
