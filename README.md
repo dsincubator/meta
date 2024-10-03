@@ -32,14 +32,14 @@ Anyone interested in learning and sharing data-science knowledge within and orga
 
 * Propose a name for the project, e.g. ixpanteria.
 * Consider the values of the ([ixpanteria](https://github.com/ixpanteria#details) project. Reflect on your own values and propose specific tools:
+  * Would your Git repositories be public or private? e.g. Public.
   * Where would you host Git repositories? e.g. GitHub.
-  * Would your video recordings be public or private to your organization?
-  * Where would you host video recordings? e.g. YouTube.
-    
-
-Say you develop a data-science meetup about a topic you're pationate about. How much do you value the following? (1: Little, 2: Neutral, 3: A lot).
-
-
+  * Would your videos be public or private to your organization? e.g. Public.
+  * Where would you host videos? e.g. YouTube.
+  * Where would you share the materials including videos? e.g. LinkedIn.
+  * How would you present the materials? e.g. directly from markdown files.
+  * How would you decide meetup topics? e.g. By consultation via a poll.
+  * How long would each meetup be? e.g. 20' presentation + 10' discussion.
 
 ## Resources
 
