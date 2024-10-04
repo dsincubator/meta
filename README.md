@@ -40,7 +40,7 @@ https://github.com/new
 
 ## Structure
 
-Minimal
+Minimal:
 
 ```
 org/repo/README.md
@@ -50,16 +50,14 @@ Nice to have:
 
 * Repo template https://github.com/ixpanteria/template:
   * Meetup materials: README.md (series also need a meetup/README.md)
-  * Meetup checklist: .github/ISSUE_TEMPLATE (see [Resources](#Resources))
+  * Meetup checklist: .github/ISSUE_TEMPLATE ([Configuring issue templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository))
 * Topics poll: https://github.com/ixpanteria/template/discussions
 * Collaborative document: https://bit.ly/ixpanteria-doc
+* Blog: https://ixpanteria.github.io/
 
-## Example
+## Mapping values to workflow
 
-https://github.com/ixpanteria:
-
-* Values and workflow (tools and processes)
-* Resources
+Example: https://github.com/ixpanteria
 
 ## Discussion
 
