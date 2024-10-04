@@ -40,17 +40,17 @@ https://github.com/new
 
 ## Structure
 
+Minimal
+
 ```
-org/                       # about the project
-org/repo/README.md         # about the series (or meetup)
-org/repo/meetup/README.md  # about the meetup (may not exist)
+org/repo/README.md
 ```
 
 Nice to have:
 
 * Repo template https://github.com/ixpanteria/template:
   * Meetup materials: README.md (series also need a meetup/README.md)
-  * Meetup checklist: .github/ISSUE_TEMPLATE (see [#Resources])
+  * Meetup checklist: .github/ISSUE_TEMPLATE (see [Resources](#Resources))
 * Topics poll: https://github.com/ixpanteria/template/discussions
 * Collaborative document: https://bit.ly/ixpanteria-doc
 
