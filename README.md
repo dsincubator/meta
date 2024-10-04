@@ -57,6 +57,10 @@ Nice to have:
 
 Example: https://github.com/ixpanteria
 
+## Q&A
+
+What questions do you have?
+
 ## Role play
 
 You are responsible for running a project like the dsincubator. Every week you need to prepare and often deliver a data-science meetup.
@@ -71,10 +75,6 @@ With those values in mind, answer as many questions as you can.
 * Where do you host the recordings? e.g. YouTube
 * Are the your recordings private or public? e.g. Public
 * Where do you share the materials and videos? e.g. LinkedIn
-
-## Q&A
-
-What questions do you have?
 
 ## Additional questions
 
