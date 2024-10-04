@@ -22,11 +22,14 @@ Anyone interested in learning and sharing data-science knowledge within and orga
 * Learn the details of the workflow used in this meetup, and the values that drove it.
 * Reflect on your own values and discuss how you would adapt this workflow to better suit your needs.
 
-## Workflow details
+----
 
-* [Details of the ixpanteria project](https://github.com/ixpanteria#details). Relate values with workflow.
-* ...
-* ...
+## Example
+
+https://github.com/ixpanteria
+
+* Values and workflow (tools and processes)
+* Resources
 
 ## Discussion
 
@@ -44,6 +47,8 @@ Anyone interested in learning and sharing data-science knowledge within and orga
   * Would you like to present meetups? e.g. Yes, occationally on topics I'm most pationate about.
   * Would you develop the text content in English or another languge? e.g. Mostly English but other occationally in Spanish.
   * Would you present the content during the meetup in English or another languge?  e.g. Mostly English but other occationally in Spanish.
+
+----
 
 ## Resources
 
