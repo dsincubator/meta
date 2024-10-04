@@ -2,7 +2,7 @@
 
 The goal of this data-science meetup is to show one workflow (tools and processes) useful to run data-science meetups. 
 
-At the end of this meetup, you will be able to do things like this:
+At the end of this meetup, you'll be able to do things like this:
 
 * Use this workflow to run data-science meetups.
 * Adapt this workflow based on your own values and needs.
