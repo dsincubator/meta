@@ -9,7 +9,12 @@ At the end of this meetup, you will know how to:
 
 ## Who is the audience?
 
-Anyone interested in learning and sharing data-science knowledge within and organization and with the broader data-science community. It's particularly useful if you are responsible for leading data-science meetups. 
+> The first step ... is figuring out who your audience is.
+> -- https://teachtogether.tech/en/index.html#s:process-personas
+
+* People responsible for leading data-science meetups, e.g. me. 
+* People who attend to data-science meetups, e.g. you.
+* Organizations who hire people like you and me, e.g. ixpantia.
 
 ## Why is it important?
 
