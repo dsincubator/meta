@@ -27,8 +27,6 @@ At the end of this meetup, you'll be able to do things like this:
 * Learn the details of the workflow used in this meetup, and the values that drove it.
 * Reflect on your own values and discuss how you would adapt this workflow to better suit your needs.
 
-----
-
 ## Demo
 
 https://github.com/new
@@ -59,10 +57,6 @@ Nice to have:
 
 Example: https://github.com/ixpanteria
 
-## Q&A
-
-What questions do you have?
-
 ## Role play
 
 You are responsible for running a project like the dsincubator. Every week you need to prepare and often deliver a data-science meetup.
@@ -76,8 +70,13 @@ Consider the values of the ixpanteria project and reflect on your own values. Wi
 * Are the your recordings private or public? e.g. Public
 * Where do you share the materials and videos? e.g. LinkedIn
 
-## Additional questions
+## Q&A
 
+What questions do you have?
+
+<! -- 
+
+## Additional questions
 
   * How would you present the materials? e.g. directly from markdown files.
   * How would you decide meetup topics? e.g. By consultation via a poll.
@@ -87,7 +86,7 @@ Consider the values of the ixpanteria project and reflect on your own values. Wi
   * Would you develop the text content in English or another languge? e.g. Mostly English but other occationally in Spanish.
   * Would you present the content during the meetup in English or another languge?  e.g. Mostly English but other occationally in Spanish.
 
-----
+-->
 
 ## Resources
 
