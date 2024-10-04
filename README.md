@@ -76,8 +76,6 @@ With those values in mind, answer as many questions as you can.
 
 What questions do you have?
 
-<! -- 
-
 ## Additional questions
 
   * How would you present the materials? e.g. directly from markdown files.
@@ -87,8 +85,6 @@ What questions do you have?
   * Would you like to present meetups? e.g. Yes, occationally on topics I'm most pationate about.
   * Would you develop the text content in English or another languge? e.g. Mostly English but other occationally in Spanish.
   * Would you present the content during the meetup in English or another languge?  e.g. Mostly English but other occationally in Spanish.
-
--->
 
 ## Resources
 
