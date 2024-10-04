@@ -1,6 +1,6 @@
 # meta
 
-The goal of this meetup is to show one workflow (tools and processes) useful to run data-science meetups. It's *meta* because it's a meetup about meetups, and was developed using the workflow it will demonstrate.
+The goal of this data-science meetup is to show one workflow (tools and processes) useful to run data-science meetups. 
 
 At the end of this meetup, you will know how to:
 
