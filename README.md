@@ -77,6 +77,7 @@ https://github.com/ixpanteria:
 
 ## Resources
 
+* https://bit.ly/ixpanteria-doc
 * [About the ixpanteria project](https://github.com/ixpanteria).
 * [YouTube playlist with videos in the entire project](FIXME).
 * [YouTube playlist with videos in this specific series](FIXME).
