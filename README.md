@@ -9,12 +9,12 @@ At the end of this meetup, you'll be able to do things like this:
 
 ## Who is the audience?
 
-> The first step ... is figuring out who your audience is.  
-> -- [Learner Personas, in Teaching Tech Together by Greg Wilson](https://teachtogether.tech/en/index.html#s:process-personas).
-
 * People responsible for leading data-science meetups, e.g. me. 
 * People who attend to data-science meetups, e.g. you.
 * Organizations who hire people like you and me, e.g. ixpantia.
+
+> The first step ... is figuring out who your audience is.  
+> -- [Learner Personas, in Teaching Tech Together by Greg Wilson](https://teachtogether.tech/en/index.html#s:process-personas).
 
 ## Why is it important?
 
