@@ -81,4 +81,4 @@ https://github.com/ixpanteria:
 * [YouTube playlist with videos in the entire project](FIXME).
 * [YouTube playlist with videos in this specific series](FIXME).
 * [Main resource used to develop this series](FIXME).
-* ...
+* Teaching Tech Together, by Greg Wilson ([book](https://teachtogether.tech/), [workshop](https://drive.google.com/drive/folders/1LVcmp48Ym0c6pA9GOT6TrCa47RU1ugaV))
