@@ -59,15 +59,26 @@ Nice to have:
 
 Example: https://github.com/ixpanteria
 
-## Discussion
+## Q&A
 
-* Propose a name for the project, e.g. ixpanteria.
-* Consider the values of the ([ixpanteria](https://github.com/ixpanteria#details) project. Reflect on your own values and propose specific tools:
-  * Would your Git repositories be public or private? e.g. Public.
-  * Where would you host Git repositories? e.g. GitHub.
-  * Would your videos be public or private to your organization? e.g. Public.
-  * Where would you host videos? e.g. YouTube.
-  * Where would you share the materials including videos? e.g. LinkedIn.
+What questions do you have?
+
+## Role play
+
+You are responsible for running a project like the dsincubator. Every week you need to prepare and often deliver a data-science meetup.
+
+Consider the values of the ixpanteria project and reflect on your own values. With those values in mind, answer as many questions as you can.
+
+* What's the name of your project? e.g. ixpanteria
+* Where do you host the Git repos? e.g. GitHub
+* Are your repos private or public? e.g. Public
+* Where do you host the recordings? e.g. YouTube
+* Are the your recordings private or public? e.g. Public
+* Where do you share the materials and videos? e.g. LinkedIn
+
+## Additional questions
+
+
   * How would you present the materials? e.g. directly from markdown files.
   * How would you decide meetup topics? e.g. By consultation via a poll.
   * How long would each meetup be? e.g. 20' presentation + 10' discussion.
