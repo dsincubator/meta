@@ -83,3 +83,7 @@ https://github.com/ixpanteria:
 * [YouTube playlist with videos in this specific series](FIXME).
 * [Main resource used to develop this series](FIXME).
 * Teaching Tech Together, by Greg Wilson ([book](https://teachtogether.tech/), [workshop](https://drive.google.com/drive/folders/1LVcmp48Ym0c6pA9GOT6TrCa47RU1ugaV))
+* Examples from the ds-incubator, a data-science meetup project:
+  * Materials or a single, minimalistic meetup: https://github.com/dsincubator/reprex4pm
+  * Materials for a series of meetups: https://github.com/2degreesInvesting/ds.testing
+  * Videos: https://www.youtube.com/@leporemauro
