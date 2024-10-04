@@ -91,11 +91,10 @@ Consider the values of the ixpanteria project and reflect on your own values. Wi
 
 ## Resources
 
-* https://bit.ly/ixpanteria-doc
-* [About the ixpanteria project](https://github.com/ixpanteria).
-* [YouTube playlist with videos in the entire project](FIXME).
-* [YouTube playlist with videos in this specific series](FIXME).
-* [Main resource used to develop this series](FIXME).
+* Collaborative document: https://bit.ly/ixpanteria-doc
+* Video channel: https://bit.ly/ixpanteria-channel
+* Video recording: https://bit.ly/ixpanteria-meta
+* https://github.com/ixpanteria
 * Teaching Tech Together, by Greg Wilson ([book](https://teachtogether.tech/), [workshop](https://drive.google.com/drive/folders/1LVcmp48Ym0c6pA9GOT6TrCa47RU1ugaV))
 * Examples from the ds-incubator, a data-science meetup project:
   * Materials or a single, minimalistic meetup: https://github.com/dsincubator/reprex4pm
