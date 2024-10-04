@@ -24,9 +24,29 @@ Anyone interested in learning and sharing data-science knowledge within and orga
 
 ----
 
+## Minimal structure
+
+Minimal
+
+```
+org/                       # about the project
+org/repo/README.md         # about the series (or meetup)
+org/repo/meetup/README.md  # about the meetup (may not exist)
+```
+
+Additional
+
+```
+bit.ly/org-doc             # collaborative document
+org/template/README.md     # template
+org/meta/README.md         # about itself
+org/meta/issues/1          # meetup checklist
+org/meta/issues/1          # topics and other polls
+```
+
 ## Example
 
-https://github.com/ixpanteria
+https://github.com/ixpanteria:
 
 * Values and workflow (tools and processes)
 * Resources
