@@ -61,7 +61,9 @@ Example: https://github.com/ixpanteria
 
 You are responsible for running a project like the dsincubator. Every week you need to prepare and often deliver a data-science meetup.
 
-Consider the values of the ixpanteria project and reflect on your own values. With those values in mind, answer as many questions as you can.
+Consider the values of the ixpanteria project and reflect on your own values. 
+
+With those values in mind, answer as many questions as you can.
 
 * What's the name of your project? e.g. ixpanteria
 * Where do you host the Git repos? e.g. GitHub
