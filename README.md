@@ -29,9 +29,16 @@ At the end of this meetup, you'll be able to do things like this:
 
 ----
 
-## Minimal structure
+## Demo
 
-Minimal
+https://github.com/new
+
+## Examples
+
+  * Materials or a single, minimalistic meetup: https://github.com/dsincubator/reprex4pm
+  * Materials for a series of meetups: https://github.com/2degreesInvesting/ds.testing
+
+## Structure
 
 ```
 org/                       # about the project
@@ -39,15 +46,13 @@ org/repo/README.md         # about the series (or meetup)
 org/repo/meetup/README.md  # about the meetup (may not exist)
 ```
 
-Additional
+Nice to have:
 
-```
-bit.ly/org-doc             # collaborative document
-org/template/README.md     # template
-org/meta/README.md         # about itself
-org/meta/issues/1          # meetup checklist
-org/meta/issues/1          # topics and other polls
-```
+* Repo template https://github.com/ixpanteria/template:
+  * Meetup materials: README.md (series also need a meetup/README.md)
+  * Meetup checklist: .github/ISSUE_TEMPLATE (see [#Resources])
+* Topics poll: https://github.com/ixpanteria/template/discussions
+* Collaborative document: https://bit.ly/ixpanteria-doc
 
 ## Example
 
@@ -87,3 +92,4 @@ https://github.com/ixpanteria:
   * Materials or a single, minimalistic meetup: https://github.com/dsincubator/reprex4pm
   * Materials for a series of meetups: https://github.com/2degreesInvesting/ds.testing
   * Videos: https://www.youtube.com/@leporemauro
+* [Configuring issue templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)
