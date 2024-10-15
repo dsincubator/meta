@@ -9,9 +9,8 @@ At the end of this meetup, you'll be able to do things like this:
 
 ## Who is the audience?
 
-* People responsible for leading data-science meetups, e.g. me. 
-* People who attend to data-science meetups, e.g. you.
-* Organizations who hire people like you and me, e.g. ixpantia.
+* People responsible for leading data-science meetups. 
+* People who attend to data-science meetups.
 
 > The first step ... is figuring out who your audience is.  
 > -- [Learner Personas, in Teaching Tech Together by Greg Wilson](https://teachtogether.tech/en/index.html#s:process-personas).
@@ -20,21 +19,16 @@ At the end of this meetup, you'll be able to do things like this:
 
 * As a meetup developer you'll save time, teach more effectively, and stand out as an expert in the field.
 * As a meetup participant you'll get a more consistent, pleasant, and useful learning experience.
-* As a data-science organization you'll improve onboarding, develop internal talent, and advertise your work.
 
 ## Objectives
 
 * Learn the details of the workflow used in this meetup, and the values that drove it.
-* Reflect on your own values and discuss how you would adapt this workflow to better suit your needs.
+* Understand how values can help you find a meetup workflow that works for you.
 
 ## Demo
 
-https://github.com/new
-
-## Examples
-
-  * Materials or a single, minimalistic meetup: https://github.com/dsincubator/reprex4pm
-  * Materials for a series of meetups: https://github.com/2degreesInvesting/ds.testing
+* [Explore examle materials of a series of meetups](https://github.com/2degreesInvesting/ds.testing).
+* [Draft a new meetup](https://github.com/new).
 
 ## Structure
 
@@ -46,30 +40,28 @@ org/repo/README.md
 
 Nice to have:
 
-* Repo template https://github.com/ixpanteria/template:
+* Repo template https://github.com/dsincubator/template:
   * Meetup materials: README.md (series also need a meetup/README.md)
   * Meetup checklist: .github/ISSUE_TEMPLATE ([Configuring issue templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository))
-* Topics poll: https://github.com/ixpanteria/template/discussions
-* Collaborative document: https://bit.ly/ixpanteria-doc
-* Blog: https://ixpanteria.github.io/
+* Topics poll: https://github.com/dsincubator/template/discussions
+* Collaborative document: https://bit.ly/dsincubator-doc
+* Blog: https://dsincubator.github.io/
 
 ## Mapping values to workflow
 
-Example: https://github.com/ixpanteria
+Example: https://github.com/dsincubator
 
-## Q&A
+## Excercises
 
-What questions do you have?
-
-## Role play
+### Role play
 
 You are responsible for running a project like the dsincubator. Every week you need to prepare and often deliver a data-science meetup.
 
-Consider the values of the ixpanteria project and reflect on your own values. 
+Consider the values of the dsincubator project and reflect on your own values. 
 
 With those values in mind, answer as many questions as you can.
 
-* What's the name of your project? e.g. ixpanteria
+* What's the name of your project? e.g. dsincubator
 * Where do you host the Git repos? e.g. GitHub
 * Are your repos private or public? e.g. Public
 * Where do you host the recordings? e.g. YouTube
@@ -77,6 +69,8 @@ With those values in mind, answer as many questions as you can.
 * Where do you share the materials and videos? e.g. LinkedIn
 
 ## Additional questions
+
+These additional questions may help you prepare for the many other decisions you will eventually need to make:
 
   * How would you present the materials? e.g. directly from markdown files.
   * How would you decide meetup topics? e.g. By consultation via a poll.
@@ -88,13 +82,7 @@ With those values in mind, answer as many questions as you can.
 
 ## Resources
 
-* Collaborative document: https://bit.ly/ixpanteria-doc
-* Video channel: https://bit.ly/ixpanteria-channel
-* Video recording: https://bit.ly/ixpanteria-meta
-* https://github.com/ixpanteria
+* The data science incubator: [About](https://github.com/dsincubator) and [videos](https://www.youtube.com/@leporemauro)
+* This meetup: video TODO
 * Teaching Tech Together, by Greg Wilson ([book](https://teachtogether.tech/), [workshop](https://drive.google.com/drive/folders/1LVcmp48Ym0c6pA9GOT6TrCa47RU1ugaV))
-* Examples from the ds-incubator, a data-science meetup project:
-  * Materials or a single, minimalistic meetup: https://github.com/dsincubator/reprex4pm
-  * Materials for a series of meetups: https://github.com/2degreesInvesting/ds.testing
-  * Videos: https://www.youtube.com/@leporemauro
 * [Configuring issue templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)
