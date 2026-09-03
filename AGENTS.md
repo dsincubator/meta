@@ -27,6 +27,14 @@ Repo: https://github.com/2degreesInvesting/ds.testing
 
 Follow that documented series structure when generating a multi-meetup series, and match this repo's single-meetup structure when generating a standalone meetup.
 
+## Workflow for generating meetups
+
+Never draft a full README in one shot.
+
+1. Plan first: propose the meetup topic outline (candidate topics, scope, what fits in 20 min plus Q&A). Discuss with the human and get explicit approval on topics before writing anything.
+2. Co-create section by section: write one section at a time (audience, why important, objectives, then demo items), confirming each with the human before moving to the next.
+3. Gates before handoff: fact-check pass against the tool's own docs, then a Human-review feedback compliance check (objectives map to demo items, demo is unpacked materials, plain markdown headings, no inline Bold headings, no em-dash characters).
+
 ## Editing conventions
 
 - **Read the `Human-review feedback` section below before generating or editing any meetup
