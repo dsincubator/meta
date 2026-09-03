@@ -44,3 +44,23 @@ then commit. Sources: session reviews, `human-review.md`, GitHub PR reviews, mee
 - **Rule:** Verify every factual claim about a specific tool/library against that tool's own docs/site as a distinct pass — do not fuse it into content generation or trust a single flaky subagent for it.
 - **Why:** A meetup about a specific tool must be traceable to authoritative sources; unchecked claims can ship if the check is skipped.
 - **Where:** Any meetup that names a specific product, tool, or provider.
+
+## 7. Use plain markdown section syntax, not inline Bold or em-dashes
+
+- **Rule:** Structure sections with real markdown headings (`#`, `##`, `###`, ...). Never use `**Bold**` as an inline pseudo-heading, and avoid em-dashes (`—`). Both scream "AI". Put bullets under a heading, not before it.
+- **Why:** `**Bold**` and em-dashes are a visible AI-tell and make the markdown read as machine-generated. Human-authored markdown uses headings for structure and reserves `*` bullets for items nested inside a section.
+- **Where:** Any meetup README or markdown content. Apply retroactively to the `dsincubator/opencode/README.md` Demo section (it used `* **Overview** — ...`; should be `### Overview` + content).
+- **Example of the correct shape:**
+  ```markdown
+  ### Overview
+
+  <url>
+
+  ### Installation
+
+  ```
+  curl -fsSL https://opencode.ai/install | bash
+  ```
+
+  More options at <url>
+  ```
