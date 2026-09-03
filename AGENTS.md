@@ -44,3 +44,22 @@ There are no build, test, lint, or CI commands. Nothing to run; edits to `README
 - `LICENSE` — MIT
 - `.gitignore` — ignores `.Rproj.user` only
 - `meta.Rproj` — RStudio project settings (editor preference, not code)
+
+## Status
+
+Periodic snapshots of what this repo is being used for. When you change the status, update
+this section and commit. Pull/push before resuming to stay current.
+
+- **Next up: validate these materials.** To test whether the instructions and templates are
+  clear, generate a *throwaway* dsincubator series (no real-repo risk) using ONLY
+  `AGENTS.md` + `dsincubator/template/README.md` as the guide, e.g. in
+  `~/git/tmp/dsincubator-series-test`. Gauge what an agent produces (personas, objectives,
+  demo, exercises, role-play) and whether the checklist
+  (`.github/ISSUE_TEMPLATE/meetup-checklist.md`) covers generation. Iterate on these docs if
+  anything is unclear or missing.
+- **Deferred:** whether to wrap this guidance as a formal opencode `skill` — leaning no
+  (the guidance already lives in `AGENTS.md` + the template; a skill would duplicate it).
+  Optional: re-run the goal/content review agents on the final docs.
+- **Known gap:** opencode `bash` permission patterns match the parsed command string, so an
+  agent may phrase around a guard (e.g. `git -C <dir> push` previously bypassed `git push **`).
+  Treat permission rules as guardrails, not a vault.
