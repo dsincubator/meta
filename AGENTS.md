@@ -29,6 +29,10 @@ Follow that documented series structure when generating a multi-meetup series, a
 
 ## Editing conventions
 
+- **Read `HUMAN-REVIEW-FEEDBACK.md` before generating or editing any meetup material.**
+  Treat every `Rule` there as binding. It accumulates lessons from human review so past
+  mistakes (e.g. adding exercises to a single meetup, copying example flourishes verbatim)
+  are not repeated.
 - `README.md` follows the Teaching Tech Together pedagogical structure (learner personas, objectives, exercises, role-play). Preserve this structure when editing; do not flatten it into generic prose.
 - The text is deliberately authored as teaching content and contains informal phrasing. Do not silently rewrite style or "fix" prose — confirm intent before restructuring.
 - Content language is mostly English, occasionally Spanish. Keep that mix.
@@ -51,12 +55,14 @@ Periodic snapshots of what this repo is being used for. When you change the stat
 this section and commit. Pull/push before resuming to stay current.
 
 - **Next up: validate these materials.** To test whether the instructions and templates are
-  clear, generate a *throwaway* dsincubator series (no real-repo risk) using ONLY
-  `AGENTS.md` + `dsincubator/template/README.md` as the guide, e.g. in
-  `~/git/tmp/dsincubator-series-test`. Gauge what an agent produces (personas, objectives,
-  demo, exercises, role-play) and whether the checklist
+  clear, generate a dsincubator meetup using ONLY `AGENTS.md` + `HUMAN-REVIEW-FEEDBACK.md` +
+  `dsincubator/template/README.md` as the guide, e.g. one that produced a real single-meetup
+  repo at `~/git/dsincubator/opencode` (free agentic AI with opencode). Gauge what an agent
+  produces (personas, objectives, demo, role-play) and whether the checklist
   (`.github/ISSUE_TEMPLATE/meetup-checklist.md`) covers generation. Iterate on these docs if
   anything is unclear or missing.
+- **Feedback loop:** human review notes are accumulated as binding rules in
+  `HUMAN-REVIEW-FEEDBACK.md` (read before generating). Keep appending new lessons there.
 - **Deferred:** whether to wrap this guidance as a formal opencode `skill` — leaning no
   (the guidance already lives in `AGENTS.md` + the template; a skill would duplicate it).
   Optional: re-run the goal/content review agents on the final docs.
