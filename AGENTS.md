@@ -29,10 +29,10 @@ Follow that documented series structure when generating a multi-meetup series, a
 
 ## Editing conventions
 
-- **Read `HUMAN-REVIEW-FEEDBACK.md` before generating or editing any meetup material.**
-  Treat every `Rule` there as binding. It accumulates lessons from human review so past
-  mistakes (e.g. adding exercises to a single meetup, copying example flourishes verbatim)
-  are not repeated.
+- **Read the `Human-review feedback` section below before generating or editing any meetup
+  material.** Treat every `Rule` there as binding. It accumulates lessons from human review
+  so past mistakes (e.g. adding exercises to a single meetup, copying example flourishes
+  verbatim) are not repeated.
 - `README.md` follows the Teaching Tech Together pedagogical structure (learner personas, objectives, exercises, role-play). Preserve this structure when editing; do not flatten it into generic prose.
 - The text is deliberately authored as teaching content and contains informal phrasing. Do not silently rewrite style or "fix" prose — confirm intent before restructuring.
 - Content language is mostly English, occasionally Spanish. Keep that mix.
@@ -49,20 +49,84 @@ There are no build, test, lint, or CI commands. Nothing to run; edits to `README
 - `.gitignore` — ignores `.Rproj.user` only
 - `meta.Rproj` — RStudio project settings (editor preference, not code)
 
+## Human-review feedback
+
+Accumulated, binding rules distilled from human review of generated meetup materials.
+Treat each `Rule` as binding. When new review feedback arrives, add it here as a new entry
+(Rule / Why / Where) and commit. These rules are the evolutionary memory that prevents
+repeating past mistakes.
+
+### 1. Single-meetup = demo only, no exercises
+
+- **Rule:** A single-meetup README has **no Exercises / Role-play section**. It is a live demo (~20') + open Q&A (~10').
+- **Why:** The `template` does not include exercises. A demo is always part of a meetup, so it's the section to build out.
+- **Where:** Generating a single-meetup README.
+
+### 2. Template is the schema; examples are only for voice
+
+- **Rule:** Cite `dsincubator/template/README.md` as the authoritative structure. Use `meta/README.md` and other examples ONLY to calibrate tone/voice — never copy an example's content-specific flourishes verbatim.
+- **Why:** `meta` is one concrete implementation. Copying its content-specific additions (e.g. the Teaching Tech Together quote, extra sections) treated flavor as requirement.
+- **Where:** Generating or editing any meetup README.
+
+### 3. Teaching Tech Together is a teacher resource, not a learner resource
+
+- **Rule:** Do not put Teaching Tech Together (or other *teaching-method* resources) in a meetup's learner-facing `## Resources`. Reserve it for the teacher/materials.
+- **Why:** It helps the person preparing the meetup, not the learner attending it.
+- **Where:** The `## Resources` section of any meetup README.
+
+### 4. Every objective must map to a demo item, and the demo must be unpacked materials
+
+- **Rule:** (a) Each item under `## Objectives` must be observably covered by exactly one `## Demo` item. (b) Each demo item must be the actual materials used — links, screenshots, code blocks, commands — not abstract bullets.
+- **Why:** The README is the materials presented live. Abstract descriptions force improvisation and leave gaps.
+- **Where:** The `## Objectives` and `## Demo` sections of any meetup README.
+
+### 5. Read prior human review before delegating any generation
+
+- **Rule:** Before delegating a meetup generation/edit to a subagent, incorporate this section. Do not generate from an example alone.
+- **Why:** An earlier agent produced the wrong structure because prior review notes weren't in its context.
+- **Where:** Any generation or edit task.
+
+### 6. Fact-check generation as its own gate
+
+- **Rule:** Verify every factual claim about a specific tool/library against that tool's own docs/site as a distinct pass — do not fuse it into content generation or trust a single flaky subagent for it.
+- **Why:** A meetup about a specific tool must be traceable to authoritative sources; unchecked claims can ship if the check is skipped.
+- **Where:** Any meetup that names a specific product, tool, or provider.
+
+### 7. Use plain markdown section syntax, not inline Bold or em-dashes
+
+- **Rule:** Structure sections with real markdown headings (`#`, `##`, `###`, ...). Never use `**Bold**` as an inline pseudo-heading, and avoid em-dashes (`—`). Both scream "AI". Put bullets under a heading, not before it.
+- **Why:** `**Bold**` and em-dashes are a visible AI-tell and make the markdown read as machine-generated. Human-authored markdown uses headings for structure and reserves `*` bullets for items nested inside a section.
+- **Where:** Any meetup README or markdown content.
+- **Example of the correct shape:**
+  ```markdown
+  ### Overview
+
+  <url>
+
+  ### Installation
+
+  ```
+  curl -fsSL https://opencode.ai/install | bash
+  ```
+
+  More options at <url>
+  ```
+
 ## Status
 
 Periodic snapshots of what this repo is being used for. When you change the status, update
 this section and commit. Pull/push before resuming to stay current.
 
 - **Next up: validate these materials.** To test whether the instructions and templates are
-  clear, generate a dsincubator meetup using ONLY `AGENTS.md` + `HUMAN-REVIEW-FEEDBACK.md` +
+  clear, generate a dsincubator meetup using ONLY `AGENTS.md` +
   `dsincubator/template/README.md` as the guide, e.g. one that produced a real single-meetup
   repo at `~/git/dsincubator/opencode` (free agentic AI with opencode). Gauge what an agent
   produces (personas, objectives, demo, role-play) and whether the checklist
   (`.github/ISSUE_TEMPLATE/meetup-checklist.md`) covers generation. Iterate on these docs if
   anything is unclear or missing.
-- **Feedback loop:** human review notes are accumulated as binding rules in
-  `HUMAN-REVIEW-FEEDBACK.md` (read before generating). Keep appending new lessons there.
+- **Feedback loop:** human review notes are accumulated as binding rules in the
+  `Human-review feedback` section above (read before generating). Keep appending new lessons
+  there.
 - **Deferred:** whether to wrap this guidance as a formal opencode `skill` — leaning no
   (the guidance already lives in `AGENTS.md` + the template; a skill would duplicate it).
   Optional: re-run the goal/content review agents on the final docs.
