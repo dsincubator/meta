@@ -143,6 +143,12 @@ repeating past mistakes.
   More options at <url>
   ```
 
+### 8. Link every source
+
+- **Rule:** Every factual claim about a specific tool, model, price, or quota carries its source link inline. No bare claims.
+- **Why:** A meetup about specific tools must be traceable to authoritative sources; unlocked links force live verification at demo time instead of shipping memory as fact.
+- **Where:** Any meetup README content, especially `## Demo` materials and `## Resources`.
+
 ## Status
 
 Periodic snapshots of what this repo is being used for. When you change the status, update
