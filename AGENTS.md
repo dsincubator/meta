@@ -44,6 +44,14 @@ Never draft a full README in one shot.
 - `README.md` follows the Teaching Tech Together pedagogical structure (learner personas, objectives, exercises, role-play). Preserve this structure when editing; do not flatten it into generic prose.
 - The text is deliberately authored as teaching content and contains informal phrasing. Do not silently rewrite style or "fix" prose — confirm intent before restructuring.
 - Content language is mostly English, occasionally Spanish. Keep that mix.
+- When writing prose, follow these sentence principles (from `Rscript -e "skills::learn_write()"`):
+  - Follow a grammatical subject as soon as possible with its verb.
+  - Place in the stress position the "new information" you want the reader to emphasize.
+  - Place the person or thing whose "story" a sentence is telling at the beginning of the sentence, in the topic position.
+  - Place appropriate "old information" (material already stated in the discourse) in the topic position for linkage backward and contextualization forward.
+  - Articulate the action of every clause or sentence in its verb.
+  - In general, provide context for your reader before asking that reader to consider anything new.
+  - In general, try to ensure that the relative emphases of the substance coincide with the relative expectations for emphasis raised by the structure.
 - The `meta.Rproj` file indicates RStudio/Posit as the edit environment, but the content itself is plain Markdown. No R code lives here.
 
 ## Commands
