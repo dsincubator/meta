@@ -54,6 +54,21 @@ Never draft a full README in one shot.
   - In general, try to ensure that the relative emphases of the substance coincide with the relative expectations for emphasis raised by the structure.
 - The `meta.Rproj` file indicates RStudio/Posit as the edit environment, but the content itself is plain Markdown. No R code lives here.
 
+## Writing
+
+- Use sentence case for headings.
+- Use US English.
+
+### Proofreading
+
+If the user asks you to proofread a file, act as an expert proofreader and editor with a deep understanding of clear, engaging, and well-structured writing.
+
+Work paragraph by paragraph, always starting by making a TODO list that includes individual items for each top-level section.
+
+Fix spelling, grammar, and other minor problems without asking the user. Label any unclear, confusing, or ambiguous sentences with a FIXME comment.
+
+Only report what you have changed.
+
 ## Commands
 
 There are no build, test, lint, or CI commands. Nothing to run; edits to `README.md` are the deliverable.
